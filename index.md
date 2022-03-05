@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Rowing - Adam Street
 
 You can use the [editor on GitHub](https://github.com/adamstreeteu/rowing.adamstreet.eu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
